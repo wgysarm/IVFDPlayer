@@ -1,0 +1,157 @@
+/*
+* IVFDQSS BY WANGGUOYUAN
+*
+*/
+
+/**********子界面背景**********/
+
+
+/**********子界面中央背景**********/
+
+/**********主界面样式**********/
+
+
+/**********提示**********/
+
+/**********菜单栏**********/
+
+/**********菜单**********/
+
+
+/**********状态栏**********/
+
+
+/**********分组框**********/
+
+/**********页签项**********/
+
+
+/**********表头**********/
+
+
+/**********表格**********/
+
+/**********滚动条-水平**********/
+
+
+/**********滚动条-垂直**********/
+
+
+/**********下拉列表**********/
+
+/**********进度条**********/
+
+
+/**********复选框**********/
+
+/**********单选框**********/
+QRadioButton::hover
+{
+	color:red;
+}
+QRadioButton::pressed
+{
+	color:white;
+}
+
+/**********输入框**********/
+
+
+/**********文本编辑框**********/
+QLineEdit
+{
+	border:1px solid #242424;
+	border-radius:3px;
+	padding:2px;
+	background:none;
+	selection-background-color:#484848;
+	selection-color:#484848;
+}
+
+QLineEdit::focus
+{
+	border:2px solid #242424;
+}
+
+/**********滚动区域**********/
+
+
+/**********滚动区域**********/
+
+
+/**********微调器**********/
+
+
+/**********标签**********/
+
+
+/**********按钮**********/
+
+
+/**********按钮**********/
+
+QPushButton::hover
+{
+	color:white;
+}
+
+QPushButton::pressed
+{
+	color:red;
+}
+QPushButton#pushButton_initconfirm
+{
+    color:white;
+    background-color:rgb(14 , 150 , 254);
+    border: 2px solid #0055ff;
+	border-radius: 20px;
+	min-width: 85px;
+	max-width: 85px;
+	min-height: 20px;
+	max-height: 20px;
+}
+
+QPushButton#pushButton_initconfirm:hover
+{
+    color:black;
+    background-color:rgb(44 , 137 , 255);
+    border: 2px solid #0055ff;
+}
+
+QPushButton#pushButton_initconfirm:pressed
+{
+    color:blue;
+    background-color:rgb(14 , 135 , 228);
+    border: 2px solid #0055ff;
+    padding-left:3px;
+    padding-top:3px;
+}
+
+QPushButton#pushButton_initreset
+{
+    color:white;
+    background-color:rgb(14 , 150 , 254);
+    border: 2px solid #0055ff;
+	border-radius: 20px;
+	min-width: 85px;
+	max-width: 85px;
+	min-height: 20px;
+	max-height: 20px;
+}
+
+QPushButton#pushButton_initreset:hover
+{
+    color:black;
+    background-color:rgb(44 , 137 , 255);
+    border: 2px solid #0055ff;
+}
+
+QPushButton#pushButton_initreset:pressed
+{
+    color:blue;
+    background-color:rgb(204 , 228 , 247);
+    border: 1px solid rgb(1 , 84 , 153);
+    padding-left:3px;
+    padding-top:3px;
+}
+/*****************标题栏按钮*******************/

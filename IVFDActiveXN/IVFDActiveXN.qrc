@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/eye.ico</file>
+        <file>style/ivfdstyle.qss</file>
+        <file>style/ivfdstyle2.qss</file>
+        <file>image/bg_date_nor.png</file>
+        <file>image/btn_fisheyeover.png</file>
+        <file>image/btn_playunchchecknor.png</file>
+        <file>image/bg_time_noal.png</file>
+        <file>image/btn_fullscreendown.png</file>
+        <file>image/NoVideo.png</file>
+        <file>image/bg_main.png</file>
+        <file>image/dark.png</file>
+        <file>image/eye.png</file>
+        <file>image/greenled.png</file>
+        <file>image/ledoff.png</file>
+        <file>image/redled.png</file>
+        <file>image/ringoff.png</file>
+        <file>image/ringon.png</file>
+        <file>image/yellowled.png</file>
+        <file>image/switch_off3.png</file>
+        <file>image/switch_on3.png</file>
+        <file>image/direction_left.png</file>
+        <file>image/eyegreen.png</file>
+        <file>image/eyegrey.png</file>
+        <file>image/eyered.png</file>
+        <file>image/fire.png</file>
+        <file>image/firelogo.ico</file>
+        <file>qt_zh_CN.qm</file>
+        <file>ivfdactivexn_zh.ts</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,53 @@
+﻿Build started 2019/6/6 14:21:13.
+     1>Project "D:\develop_c++\ffmpeg2010good\IVFDPlayer\IVFDActiveXN\IVFDActiveXN\IVFDActiveXN.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\IVFDActiveXN.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       CustomBuild:
+         All outputs are up-to-date.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /IC:\Qt\Qt5.4.1\5.4\msvc2010_opengl\include /I.\GeneratedFiles\Debug /IC:\Qt\Qt5.4.1\5.4\msvc2010_opengl\include\QtCore /IC:\Qt\Qt5.4.1\5.4\msvc2010_opengl\include\QtGui /IC:\Qt\Qt5.4.1\5.4\msvc2010_opengl\include\QtNetwork /IC:\Qt\Qt5.4.1\5.4\msvc2010_opengl\include\QtWidgets /ID:\develop_c++\ffmpeg2010good\IVFDPlayer\IVFDActiveXN\IVFDActiveXN\ffmpeg\include /IC:\Qt\Qt5.4.1\5.4\msvc2010_opengl\include\QtSql /Zi /nologo /W1 /WX- /Od /Oy- /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_NETWORK_LIB /D QT_WIDGETS_LIB /D QT_SQL_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt IVFDDrivers.cpp
+         IVFDDrivers.cpp
+         All outputs are up-to-date.
+       ResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\develop_c++\ffmpeg2010good\IVFDPlayer\IVFDActiveXN\Win32\Debug\\IVFDActiveXN.exe" /NOLOGO /LIBPATH:C:\Qt\Qt5.4.1\5.4\msvc2010_opengl\lib /LIBPATH:D:\develop_c++\ffmpeg2010good\IVFDPlayer\IVFDActiveXN\IVFDActiveXN\ffmpeg\lib qtmaind.lib Qt5Cored.lib Qt5Guid.lib Qt5Networkd.lib Qt5Widgetsd.lib Shell32.lib avcodec.lib avdevice.lib avfilter.lib avformat.lib avutil.lib postproc.lib swresample.lib swscale.lib Qt5Sqld.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\IVFDActiveXN.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\develop_c++\ffmpeg2010good\IVFDPlayer\IVFDActiveXN\Win32\Debug\IVFDActiveXN.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\develop_c++\ffmpeg2010good\IVFDPlayer\IVFDActiveXN\Win32\Debug\IVFDActiveXN.lib" /MACHINE:X86 Debug\IVFDActiveXN.res
+         Debug\ChanelWidget.obj
+         Debug\moc_ChanelWidget.obj
+         Debug\moc_IVFDActiveXN.obj
+         Debug\moc_IVFDCalibrate.obj
+         Debug\moc_IVFDChart.obj
+         Debug\moc_IVFDCommand.obj
+         Debug\moc_IVFDDataBase.obj
+         Debug\moc_IVFDDiaryQuerry.obj
+         Debug\moc_IVFDRtspPlayer.obj
+         Debug\moc_IVFDSelfRebootSet.obj
+         Debug\moc_IVFDTcpClient.obj
+         Debug\moc_IVFDTcpServer.obj
+         Debug\moc_LoginWidget.obj
+         Debug\qrc_IVFDActiveXN.obj
+         Debug\IVFDActiveXN.obj
+         Debug\IVFDCalibrate.obj
+         Debug\IVFDChart.obj
+         Debug\IVFDCommand.obj
+         Debug\IVFDDataBase.obj
+         Debug\IVFDDiaryQuerry.obj
+         Debug\IVFDDrivers.obj
+         Debug\IVFDRtspPlayer.obj
+         Debug\IVFDSelfRebootSet.obj
+         Debug\IVFDTcpClient.obj
+         Debug\IVFDTcpServer.obj
+         Debug\LoginWidget.obj
+         Debug\main.obj
+         LINK : D:\develop_c++\ffmpeg2010good\IVFDPlayer\IVFDActiveXN\Win32\Debug\\IVFDActiveXN.exe not found or not built by the last incremental link; performing full link
+         IVFDActiveXN.vcxproj -> D:\develop_c++\ffmpeg2010good\IVFDPlayer\IVFDActiveXN\Win32\Debug\IVFDActiveXN.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\develop_c++\ffmpeg2010good\IVFDPlayer\IVFDActiveXN\Win32\Debug\\IVFDActiveXN.exe;#1" /manifest Debug\IVFDActiveXN.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\IVFDActiveXN.unsuccessfulbuild".
+         Touching "Debug\IVFDActiveXN.lastbuildstate".
+     1>Done Building Project "D:\develop_c++\ffmpeg2010good\IVFDPlayer\IVFDActiveXN\IVFDActiveXN\IVFDActiveXN.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:11.96
